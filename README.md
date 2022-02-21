@@ -1,7 +1,6 @@
-DesafioCapgemini
-DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
-
-Etapa do processo de seleção para a Academia Capgemini 2022
+#DesafioCapgemini
+<h1>DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI</h1>
+<h2>Etapa do processo de seleção para a Academia Capgemini 2022<br></h2>
 Algoritmos desenvolvidos na linguagem Java
 1º Desafio – Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços
 Elaboração do algoritmo: Foi criada a Classe Escada, onde, foi criado Scanner para que o usuário digite o tamanho n da escada, armazenando em ArrayList<> os valores digitados. O valor digitado vai percorrer um for com a quantidade máxima de degraus , fazendo com que substituia a String por *.
